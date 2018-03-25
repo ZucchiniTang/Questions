@@ -1,5 +1,5 @@
 # Questions
-## This repository is used for recording questions that I met in my research work
+## This repository is used for recording questions that I met 
 1. 2018 March 25th 
    1. why the output image is different between these two code below: <br />
       1. code<br />
